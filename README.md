@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/qq_38155541?spm=1010.2135.3001.5421](https://blog.csdn.net/qq_38155541?spm=1010.2135.3001.5421)
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/qq_38155541?spm=1010.2135.3001.5421)
 
 - 📫 How to reach me **limyoonaxi@gmail.com**
 
