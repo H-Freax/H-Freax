@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruby Freax</h1>
+<h1 align="center">Hi 👋, I'm Freax Ruby</h1>
 <h3 align="center">A passionate developer from China</h3>
 <div align="center">
 🌱 I’m currently learning robotics!
