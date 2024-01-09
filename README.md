@@ -3,7 +3,7 @@
 <div align="center">
 🌱 I’m currently learning robotics!
 
-📝 I regularly write articles on [CSDN](https://blog.csdn.net/qq_38155541?spm=1010.2135.3001.5421)
+📝 I regularly write articles on [CSDN](https://blog.csdn.net/qq_38155541?spm=1010.2135.3001.5421) & [zhihu](https://www.zhihu.com/people/freax-23/posts)
 
 📫 How to reach me **limyoonaxi@gmail.com**
 
