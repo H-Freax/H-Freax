@@ -11,7 +11,7 @@
 ## 📰 Latest Updates
 - [New Article is out now!!!] [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) : [Data Analysis Practical Project Based on Lending Club [1]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-1-ad54eb08c550)
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[2]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-2-305476466f4b)
-  - [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
     
 ## 🚀🌌 Open Source Projects
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
