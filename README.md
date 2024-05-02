@@ -38,6 +38,7 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 - [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
 
 ## 💼🔬 Experience
+- 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)
 - 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 - 📊 Research Assistant at Wenzhou University of Technology
