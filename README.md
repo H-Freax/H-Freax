@@ -7,24 +7,18 @@ Welcome to my personal space on the internet! I'm a graduate student in the Info
 
 Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
 
-
 ## What I'm Up To
 
 - 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
 - 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
-- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on the PATPAT project. Check out the product introduction on [YouTube](https://studio.youtube.com/video/mtMAw2oCKwg/edit). I'm delighted to announce that we secured the 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon, showcasing the innovative potential of our work.
+- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1), which provides a stable and reliable implementation of these tools.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:limyoonaxi@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyfreax)  [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541)  [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi)
 - ⚡ Fun fact: Passionate about robotics, AI, and everything tech.
 
-## 📰 Latest Updates
-- [New Article is out now!!!] [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) : [Data Analysis Practical Project Based on Lending Club [1]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-1-ad54eb08c550)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[2]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-2-305476466f4b)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
-    
 ## 🚀🌌 Open Source Projects
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
-- 💻 [Course Selection System based on Swing](https://github.com/H-Freax/Course-selection-system-based-on-Swing)
+- 💻 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
 
 ## ✍️ Featured Articles
 -  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [Mastering CartPole with Enhanced Deep Q-Networks: An In-depth Guide to Equivariant Models](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
@@ -37,10 +31,13 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
 - [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
 
-## 💼🔬 Experience
+## 💼 Professional Experience
+- 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
+
+
+## 🔬 Academic Experience
 - 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)
-- 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 - 📊 Research Assistant at Wenzhou University of Technology
 - 📈 Research Assistant at Institute of Modeling and Data Mining, Wenzhou University
 - 🎓 Technical Leader at MIE DEMO Studio
