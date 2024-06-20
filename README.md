@@ -3,6 +3,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
+
+<div align="center">
+  <h2>🌟 I am actively seeking research positions for Fall 2024! 🌟</h2>
+</div>
+
 Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
 
 Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
