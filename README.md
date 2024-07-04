@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Freax Ruby ✨</h1>
+<h1 align="center">Hi there <img  height=50px src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxMzA4MzcsIm5iZiI6MTcyMDEzMDUzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA0VDIyMDIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMjE1YzE4ZGRkZjAzMGI3MDQ2MDZhYjYzZDExYWQ5YmUxZWUzMzA5MWEzNzM4YTFhN2JhMzhhYjg3NTIwNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4W-aPiJihyIXTPKr0KGWcMXtZPdZsYk2hafr5xWM-qY" />, I'm Freax Ruby ✨</h1>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
@@ -12,7 +13,7 @@ Welcome to my personal space on the internet! I'm a graduate student in the Info
 
 Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
 
-## What I'm Up To
+## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
 - 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
 - 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
@@ -20,7 +21,7 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:limyoonaxi@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyfreax)  [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541)  [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi)
 - ⚡ Fun fact: Passionate about robotics, AI, and everything tech.
 
-## 🚀🌌 Open Source Projects
+## 🚀 Open Source Projects
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
 - 💻 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
@@ -62,3 +63,4 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 <div align="center">
   <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
+
