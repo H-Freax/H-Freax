@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img  height=50px src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxMzA4MzcsIm5iZiI6MTcyMDEzMDUzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA0VDIyMDIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMjE1YzE4ZGRkZjAzMGI3MDQ2MDZhYjYzZDExYWQ5YmUxZWUzMzA5MWEzNzM4YTFhN2JhMzhhYjg3NTIwNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4W-aPiJihyIXTPKr0KGWcMXtZPdZsYk2hafr5xWM-qY" />, I'm Freax Ruby ✨</h1>
+<h1 align="center">Hi there, I'm Freax Ruby ✨</h1>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
