@@ -14,7 +14,7 @@ Welcome to my personal space on the internet! I'm a graduate student in the Info
 Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
 
 ## News!!!!
-- My related paper is out now! 🌟
+- My latest paper is out now! 🌟
 - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
 - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
 
