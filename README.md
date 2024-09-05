@@ -5,18 +5,15 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
 
-<div align="center">
-  <h2>🌟 I am actively seeking research positions for Fall 2024! 🌟</h2>
-</div>
-
 Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
 
 Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
 
 ## News!!!!
-- My latest paper is out now! 🌟
-- [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
-- [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+- Excited to share that both of my recent papers have been accepted at CoRL 2024! 🌟
+  - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
+  - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+- I will soon begin my Machine Learning Co-op with Lendbuzz
 
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
