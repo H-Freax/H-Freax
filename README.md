@@ -5,15 +5,22 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
 
-Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University and am about to start an exciting **Machine Learning Co-op with Lendbuzz**. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
 
-Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
+I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
+
+## About Me
+
+Before stepping into graduate school, I served as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., where I developed tools and systems that improved operational efficiencies by up to 80%. At **Wenzhou University of Technology**, under the guidance of **Professors Xianming Wang** and **Xu Xu**, I focused on strategic insights for soccer teams and performed sentiment analysis on Amazon reviews. At **Wenzhou Bopu Institute of Big Data**, mentored by **Professor Xianming Wang**, I led public opinion analysis projects. I also worked with **Professor Huaqing Mao** at **MIE DEMO Studio**, where I launched an innovative volunteer management platform.
+
+🌟🌟Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!🌟🌟
+
 
 ## News!!!!
-- Excited to share that both of my recent papers have been accepted at CoRL 2024! 🌟
+- Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
-- I will soon begin my Machine Learning Co-op with Lendbuzz
+- I’m excited to soon begin my **Machine Learning Co-op with Lendbuzz**!
 
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
@@ -41,6 +48,7 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 - [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
 
 ## 💼 Professional Experience
+- (In Coming) Machine Learning Co-op with Lendbuzz
 - 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 
 
