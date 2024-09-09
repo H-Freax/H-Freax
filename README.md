@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University and am about to start an exciting **Machine Learning Co-op with Lendbuzz**. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
 
 I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
 
@@ -48,7 +48,6 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 - [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
 
 ## 💼 Professional Experience
-- (In Coming) Machine Learning Co-op with Lendbuzz
 - 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 
 
