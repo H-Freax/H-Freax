@@ -20,7 +20,6 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
-- I’m excited to soon begin my **Machine Learning Co-op with Lendbuzz**!
 
 
 ## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
