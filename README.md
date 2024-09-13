@@ -17,6 +17,7 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 
 
 ## News!!!!
+- [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
