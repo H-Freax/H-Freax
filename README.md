@@ -5,9 +5,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m currently a **Machine Learning Engineer Co-op** at **Lendbuzz**, where I’m applying my skills in AI to solve real-world problems in the fintech space.
 
-I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
+In addition, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**. I also contribute as a Research Assistant at the **CHATS Lab** (Conversation, Human-AI Technology, Security) under [Weiyan Shi](https://wyshi.github.io/), where we focus on **interactive AI systems**, **privacy-preserving AI**, and **multi-modal conversational agents**.
+
+On the accessibility front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign** on projects that aim to improve accessibility in **fintech** and **mHealth** for older adults.
+
 
 ## About Me
 
