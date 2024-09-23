@@ -53,17 +53,19 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 - [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
 
 ## 💼 Professional Experience
+- 💻 **Machine Learning Engineer Co-op** at **Lendbuzz**
 - 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 
-
+  
 ## 🔬 Academic Experience
 - 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)
+- 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/chats_lab/)(Conversation, Human-AI Technology, Security) 
 - 📊 Research Assistant at Wenzhou University of Technology
 - 📈 Research Assistant at Institute of Modeling and Data Mining, Wenzhou University
 - 🎓 Technical Leader at MIE DEMO Studio
 - 📰 Technical Leader at Wenzhou Bopu Institute of Big Data
-
+- 
 <div align="center">
   <img src="https://github-readme-stats-69lu-h-freaxs-projects.vercel.app/api?username=H-Freax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-69lu-h-freaxs-projects.vercel.app/api/top-langs?username=H-Freax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
