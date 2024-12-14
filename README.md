@@ -20,6 +20,7 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 
 
 ## News!!!!
+- Invited Talk: Gave a talk at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”
 - I’ve started a **Machine Learning Engineer Co-op** at **Lendbuzz** and joined the **CHATS Lab** (Conversation, Human-AI Technology, Security) as a Research Assistant under [Weiyan Shi](https://wyshi.github.io/)!
 - [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
