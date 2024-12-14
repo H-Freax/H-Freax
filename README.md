@@ -66,7 +66,14 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 - 📈 Research Assistant at Institute of Modeling and Data Mining, Wenzhou University
 - 🎓 Technical Leader at MIE DEMO Studio
 - 📰 Technical Leader at Wenzhou Bopu Institute of Big Data
-- 
+
+
+## 🔍  Reviewing Experience
+- AAAI 2025 Workshop WMAC  
+- ICLR 2025  
+- CoRL 2024 Workshop Assembly  
+- CoRL 2024 Workshop LEAP  
+
 <div align="center">
   <img src="https://github-readme-stats-69lu-h-freaxs-projects.vercel.app/api?username=H-Freax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-69lu-h-freaxs-projects.vercel.app/api/top-langs?username=H-Freax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
