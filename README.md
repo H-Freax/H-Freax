@@ -6,7 +6,7 @@
 
 Hi there! 🌟 As I gear up for my second year at Northeastern University, I reflect on my journey so far. My time as a **Machine Learning Engineer Co-op** at **Lendbuzz** was a standout experience. Integrating vLLM into systems and achieving a 175% inference speedup was a highlight, combining technical challenges with real-world impact. 
 
-I’m also immersed in exciting research at **The Helping Hands Lab**, guided by [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/), where I work on advancing **robotic grasping and manipulation systems**. 🤖 At the **CHATS Lab** under [Weiyan Shi](https://wyshi.github.io/), my focus lies on building **interactive AI systems**, **privacy-preserving AI**, and **multi-modal conversational agents**. 💬
+I’m also immersed in exciting research at **The Helping Hands Lab**, guided by [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/), where I work on advancing **robotic grasping and manipulation systems**. 🤖 
 
 On a different front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**. Here, I contribute to projects enhancing accessibility in **fintech** and **mHealth** for older adults. 🏦
 
@@ -56,7 +56,7 @@ _**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just
 ## 🔬 Academic Experience
 - 🤖 **Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)**
 - 🤖 **Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)**
-- 🤖 **Research Assistant at [CHATS Lab](https://wyshi.github.io/chats_lab/)(Conversation, Human-AI Technology, Security)**
+- 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/chats_lab/)(Conversation, Human-AI Technology, Security)
 - 📊 Research Assistant at Wenzhou University of Technology
 - 📈 Research Assistant at Institute of Modeling and Data Mining, Wenzhou University
 - 🎓 Technical Leader at MIE DEMO Studio
