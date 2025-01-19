@@ -1,35 +1,55 @@
 <h1 align="center">Hi there, I'm Yaoyao Qian(Freax Ruby) ✨</h1>
-
+<div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
+</div>
 
-Hi there! 🌟 As I gear up for my second year at Northeastern University, I reflect on my journey so far. My time as a **Machine Learning Engineer Co-op** at **Lendbuzz** was a standout experience. Integrating vLLM into systems and achieving a 175% inference speedup was a highlight, combining technical challenges with real-world impact. 
+As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 
 
-I’m also immersed in exciting research at **The Helping Hands Lab**, guided by [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/), where I work on advancing **robotic grasping and manipulation systems**. 🤖 
+I’m currently immersed in exciting **robotics and AI research** at:  
+- 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
+- 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 
-On a different front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**. Here, I contribute to projects enhancing accessibility in **fintech** and **mHealth** for older adults. 🏦
+---
 
-## About Me
-
-Before grad school, I honed my skills as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., driving operational improvements of up to 80%. My academic path included impactful research at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**, where I tackled diverse projects from public opinion analysis to launching a volunteer management platform. 
-
-_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡**_
+<div align="center">
 
 
-## News!!!!
-- Invited Talk: Gave a talk at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”
-- [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
-- Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
-  - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
-  - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:limyoonaxi@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyfreax)  <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
-## What I'm Up To <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+ _Feel free to reach out!_
+
+_✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡_
+
+</div>
+
+---
+
+## About Me  
+
+Before starting my graduate studies at **Northeastern University**, my academic and professional journey centered around full-stack development while also exploring diverse areas of research and technology. During my **undergraduate years**, my coursework focused heavily on **full-stack development**, and I applied these skills to projects at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**. Notable achievements included **public opinion analysis**, **data-driven research**, and developing a **volunteer management platform**, which was recognized as a **national innovation project**.  
+
+After graduation, I worked as a **Technical Manager** and **Project Leader** at **Zhejiang Chongxiao Zhong Han Medical Technology Co.**, where I led full-stack development projects. Key contributions included creating a **VC++-based database integration tool** and a **Springboot+Vue electronic invoice management system**, achieving an **80% improvement in operational efficiency**.  
+
+Alongside my primary focus on full-stack development, I also explored other areas such as **sentiment analysis**, **knowledge graph construction**, and **user behavior modeling**, broadening my technical expertise and research interests.  
+
+In the early phase of my graduate studies, I joined the **CHATS Lab** at Northeastern University, where I worked on **chatbot-related projects**, contributing to advancements in conversational AI systems.  
+
+
+## 🚨 News  
+- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
+- 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
+- 📝 **CoRL 2024 Papers Accepted**:
+  - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
+  - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
+
+
+## What I'm Up To
 
 - 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
-- 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
+- 📝 Sharing my journey and insights through articles on platforms like [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541)  [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
 - 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1), which provides a stable and reliable implementation of these tools.
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:limyoonaxi@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyfreax)  [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541)  [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi)
 - ⚡ Fun fact: Passionate about robotics, AI, and everything tech.
 
 ## 🚀 Open Source Projects
