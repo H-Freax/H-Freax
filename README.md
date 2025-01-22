@@ -11,7 +11,21 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
 - 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 
----
+
+
+## 🚨 News  
+### 🎓 **New Tutorial Course Announcement!**  
+- 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**:  
+- 🔗 **[Nano-Movie Recommender System](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9)**  
+- 🌟 **What makes it special?**  
+This course offers students a unique, hands-on opportunity to build their very own **functional recommender system**. With carefully crafted interactive materials, the course transforms complex concepts into an engaging and fun learning experience! 🚀  
+
+### Events
+- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
+- 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
+- 📝 **CoRL 2024 Papers Accepted**:
+  - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
+  - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
 
 <div align="center">
 
@@ -36,13 +50,6 @@ Alongside my primary focus on full-stack development, I also explored other area
 
 In the early phase of my graduate studies, I joined the **CHATS Lab** at Northeastern University, where I worked on **chatbot-related projects**, contributing to advancements in conversational AI systems.  
 
-
-## 🚨 News  
-- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
-- 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
-- 📝 **CoRL 2024 Papers Accepted**:
-  - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
-  - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
 
 
 ## What I'm Up To
