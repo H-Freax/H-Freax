@@ -11,17 +11,13 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
 - 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 
-
-
 ## 🚨 News  
 ### 🎓 **New Tutorial Course Announcement!**  
-- 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**:  
-- 🔗 **[Nano-Movie Recommender System](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9)**  
-- 🌟 **What makes it special?**  
-This course offers students a unique, hands-on opportunity to build their very own **functional recommender system**. With carefully crafted interactive materials, the course transforms complex concepts into an engaging and fun learning experience! 🚀  
+- 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**: [![Nano Movie Recommender System](https://img.shields.io/static/v1?style=flat-square&message=Nano+Movie+Recommender+System&color=000000&logo=Notion&logoColor=FFFFFF&label=)]([https://freaxruby.notion.site/freaxblog](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9))
 
 ### Events
-- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
+- 🎤 **Invited Talk**: Presented at **Shanghai Jiao Tong University** on *"Enhancing Robotic Manipulation with Vision-Language and Generative Models."*   👉 **Check the recording here:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1btfBYLEHS/?vd_source=e5e46a7b9d39094ea294e8beaca1d4ef) [![Watch on YouTube](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://youtu.be/cOL0cUpHdIY)
+
 - 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
 - 📝 **CoRL 2024 Papers Accepted**:
   - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
@@ -30,7 +26,9 @@ This course offers students a unique, hands-on opportunity to build their very o
 <div align="center">
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:limyoonaxi@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d64bc?style=&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyfreax)  <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=D14836&logo=Gmail&logoColor=FFFFFF&label=)](mailto:limyoonaxi@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/rubyfreax)
+ <img  height=50px src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
  _Feel free to reach out!_
 
@@ -40,40 +38,25 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
 ---
 
-## About Me  
-
-Before starting my graduate studies at **Northeastern University**, my academic and professional journey centered around full-stack development while also exploring diverse areas of research and technology. During my **undergraduate years**, my coursework focused heavily on **full-stack development**, and I applied these skills to projects at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**. Notable achievements included **public opinion analysis**, **data-driven research**, and developing a **volunteer management platform**, which was recognized as a **national innovation project**.  
-
-After graduation, I worked as a **Technical Manager** and **Project Leader** at **Zhejiang Chongxiao Zhong Han Medical Technology Co.**, where I led full-stack development projects. Key contributions included creating a **VC++-based database integration tool** and a **Springboot+Vue electronic invoice management system**, achieving an **80% improvement in operational efficiency**.  
-
-Alongside my primary focus on full-stack development, I also explored other areas such as **sentiment analysis**, **knowledge graph construction**, and **user behavior modeling**, broadening my technical expertise and research interests.  
-
-In the early phase of my graduate studies, I joined the **CHATS Lab** at Northeastern University, where I worked on **chatbot-related projects**, contributing to advancements in conversational AI systems.  
-
-
 
 ## What I'm Up To
 
-- 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
-- 📝 Sharing my journey and insights through articles on platforms like [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541)  [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
-- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1), which provides a stable and reliable implementation of these tools.
-- ⚡ Fun fact: Passionate about robotics, AI, and everything tech.
+- 🌱 I'm currently exploring the exciting field of **robotics**, aiming to leverage my skills in **information systems** and **data analysis** to contribute to innovative solutions. Additionally, I am actively engaged in **HCI research**, focusing on enhancing user experience and accessibility in digital technologies.  
 
-## 🚀 Open Source Projects
-- 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
-- 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
-- 💻 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
+- 📝 **Sharing insights and articles** on platforms like:  
+  [![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=c14438&logo=CSDN&logoColor=FFFFFF&label=)](https://blog.csdn.net/qq_38155541)
+  [![Zhihu](https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=3982f7&logo=Zhihu&logoColor=FFFFFF&label=)](https://www.zhihu.com/people/freax-23/posts)
+  [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@limyoonaxi)
+  [![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)](https://freaxruby.notion.site/freaxblog)  
+  *I am trying to consolidate all my articles on Notion for better access.*  
 
-## ✍️ Featured Articles
--  [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [Mastering CartPole with Enhanced Deep Q-Networks: An In-depth Guide to Equivariant Models](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
-- [![Zhihu](https://img.shields.io/badge/Zhihu-3982f7?style=&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/freax-23/posts) [[Note] Group Equivariant Deep Learning](https://zhuanlan.zhihu.com/p/672343831)
-- [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [基于Lending Club的数据分析实战项目【小白记录向】【一】](https://blog.csdn.net/qq_38155541/article/details/116264591?spm=1001.2014.3001.5501)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[1]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-1-ad54eb08c550)
-- [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [基于Lending Club的数据分析实战项目【小白记录向】【二】](https://blog.csdn.net/qq_38155541/article/details/116266160?spm=1001.2014.3001.5502) 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[2]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-2-305476466f4b)
-- [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [CUDA优化入门实战](https://blog.csdn.net/qq_38155541/category_11755621.html)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=&logo=medium&logoColor=white)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
-- [![CSDN](https://img.shields.io/badge/CSDN-c14438?style=&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) (English version coming soon)
+- 📺 **Follow me on:**  
+  [![Bilibili](https://img.shields.io/static/v1?style=for-the-badge&message=Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://space.bilibili.com/13216517) [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://www.youtube.com/@FreaxRuby)  [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/RubyFreax)
+
+- 🌐 **Find me on:**  
+  [![Homepage](https://img.shields.io/static/v1?style=for-the-badge&message=Homepage&color=blue&logo=Internet+Explorer&logoColor=FFFFFF&label=)](https://h-freax.github.io/)  [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.com/citations?hl=en&user=E0rCXLIAAAAJ)
+
+- ⚡ **Fun fact:** Passionate about **robotics**, **AI**, and everything **tech**.  
 
 ## 💼 Professional Experience
 - 💻 Machine Learning Engineer Co-op at Lendbuzz
@@ -95,6 +78,43 @@ In the early phase of my graduate studies, I joined the **CHATS Lab** at Northea
 - ICLR 2025  
 - CoRL 2024 Workshop Assembly  
 - CoRL 2024 Workshop LEAP  
+
+## 🚀 Open Source Projects
+- 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
+- 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
+- 💻 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
+
+## About Me  
+<details>
+<summary>Click to expand</summary>
+  
+Before starting my graduate studies at **Northeastern University**, my academic and professional journey centered around full-stack development while also exploring diverse areas of research and technology. During my **undergraduate years**, my coursework focused heavily on **full-stack development**, and I applied these skills to projects at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**. Notable achievements included **public opinion analysis**, **data-driven research**, and developing a **volunteer management platform**, which was recognized as a **national innovation project**.  
+
+After graduation, I worked as a **Technical Manager** and **Project Leader** at **Zhejiang Chongxiao Zhong Han Medical Technology Co.**, where I led full-stack development projects. Key contributions included creating a **VC++-based database integration tool** and a **Springboot+Vue electronic invoice management system**, achieving an **80% improvement in operational efficiency**.  
+
+Alongside my primary focus on full-stack development, I also explored other areas such as **sentiment analysis**, **knowledge graph construction**, and **user behavior modeling**, broadening my technical expertise and research interests.  
+
+In the early phase of my graduate studies, I joined the **CHATS Lab** at Northeastern University, where I worked on **chatbot-related projects**, contributing to advancements in conversational AI systems.  
+
+</details>
+
+## ✍️ Featured Articles
+<details>
+<summary>Click to expand</summary>
+  
+- [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@limyoonaxi) [Mastering CartPole with Enhanced Deep Q-Networks: An In-depth Guide to Equivariant Models](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
+- [![Zhihu](https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=3982f7&logo=Zhihu&logoColor=FFFFFF&label=)](https://www.zhihu.com/people/freax-23/posts) [[Note] Group Equivariant Deep Learning](https://zhuanlan.zhihu.com/p/672343831)
+- [![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=c14438&logo=CSDN&logoColor=FFFFFF&label=)](https://blog.csdn.net/qq_38155541) [基于Lending Club的数据分析实战项目【小白记录向】【一】](https://blog.csdn.net/qq_38155541/article/details/116264591?spm=1001.2014.3001.5501)
+- [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[1]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-1-ad54eb08c550)
+- [![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=c14438&logo=CSDN&logoColor=FFFFFF&label=)](https://blog.csdn.net/qq_38155541) [基于Lending Club的数据分析实战项目【小白记录向】【二】](https://blog.csdn.net/qq_38155541/article/details/116266160?spm=1001.2014.3001.5502)
+- [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@limyoonaxi) [English Version][Data Analysis Practical Project Based on Lending Club[2]](https://medium.com/@limyoonaxi/data-analysis-practical-project-based-on-lending-club-2-305476466f4b)
+- [![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=c14438&logo=CSDN&logoColor=FFFFFF&label=)](https://blog.csdn.net/qq_38155541) [CUDA优化入门实战](https://blog.csdn.net/qq_38155541/category_11755621.html)
+- [![Medium](https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=12100E&logo=Medium&logoColor=FFFFFF&label=)](https://medium.com/@limyoonaxi) [English Version][Introduction to CUDA Optimization with Practical Examples](https://medium.com/@limyoonaxi/introduction-to-cuda-optimization-with-practical-examples-707e5b06bef8)
+- [![CSDN](https://img.shields.io/static/v1?style=for-the-badge&message=CSDN&color=c14438&logo=CSDN&logoColor=FFFFFF&label=)](https://blog.csdn.net/qq_38155541) [[论文笔记] ERNIE: Enhanced Representation through Knowledge Integration](https://blog.csdn.net/qq_38155541/article/details/119236945?spm=1001.2014.3001.5502) *(English version coming soon)*
+
+</details>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats-69lu-h-freaxs-projects.vercel.app/api?username=H-Freax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
