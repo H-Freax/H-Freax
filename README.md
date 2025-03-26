@@ -10,6 +10,7 @@ As I gear up for my second year at **Northeastern University**, I reflect on my 
 I’m currently immersed in exciting **robotics and AI research** at:  
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
 - 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
+- 🌐 [**PathOnAI.org**](PathOnAI.org), contributing to **LLM-based web agents** for interactive reasoning and tool use. 
 
 ## 🚨 News  
 ### 🎓 **New Tutorial Course Announcement!**  
