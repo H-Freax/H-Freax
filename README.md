@@ -13,10 +13,15 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🌐 [**PathOnAI.org**](https://www.pathonai.org/), contributing to **LLM-based web agents** for interactive reasoning and tool use. 
 
 ## 🚨 News  
-### 🎓 **New Tutorial Course Announcement!**  
-- 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**: [![Nano Movie Recommender System](https://img.shields.io/static/v1?style=flat-square&message=Nano+Movie+Recommender+System&color=000000&logo=Notion&logoColor=FFFFFF&label=)](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9)
+
+- 📝**ICML 2025 Paper Accepted**:
+  - **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
 ### Events
+
+- 🎓 **New Tutorial Course Announcement!**  
+  - 💡 As a **Teaching Assistant for ENGR0201**, I have designed and launched an innovative **tutorial course**: [![Nano Movie Recommender System](https://img.shields.io/static/v1?style=flat-square&message=Nano+Movie+Recommender+System&color=000000&logo=Notion&logoColor=FFFFFF&label=)](https://freaxruby.notion.site/Nano-Movie-Recommender-System-1829520a6b49805e8c4be6a4c862d6e9)
+
 - 🎤 **Invited Talk**: Presented at **Shanghai Jiao Tong University** on *"Enhancing Robotic Manipulation with Vision-Language and Generative Models."*   👉 **Check the recording here:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1btfBYLEHS/?vd_source=e5e46a7b9d39094ea294e8beaca1d4ef) [![Watch on YouTube](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://youtu.be/cOL0cUpHdIY)
 
 - 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
