@@ -17,6 +17,9 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 📝**ICML 2025 Paper Accepted**:
   - **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
+- 🌐 **[VisualTreeSearch](https://www.pathonai.org/projects/visualtreesearch)** **Released!**
+   🔗 [Demo](https://visual-tree-search.pathonai.org/) ｜ 💻 [Code](https://github.com/PathOnAI/VisualTreeSearch-Demo) 
+
 ### Events
 
 - 🎓 **New Tutorial Course Announcement!**  
@@ -70,6 +73,7 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
   
 ## 🔬 Academic Experience
+- 🎓 **Researcher (non-profit)** at **[PathOnAI.org](PathOnAI.org)**
 - 🤖 **Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)**
 - 🤖 **Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)**
 - 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/group.html)(Conversation, Human-AI Technology, Security)
