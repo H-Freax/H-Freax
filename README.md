@@ -14,8 +14,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
 
 ## 🚨 News  
 
-- 📝**ICML 2025 Paper Accepted**:
-  - **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
+- 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
 - 🌐 **[VisualTreeSearch](https://www.pathonai.org/projects/visualtreesearch)** **Released!**
    🔗 [Demo](https://visual-tree-search.pathonai.org/) ｜ 💻 [Code](https://github.com/PathOnAI/VisualTreeSearch-Demo) 
@@ -28,7 +27,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🎤 **Invited Talk**: Presented at **Shanghai Jiao Tong University** on *"Enhancing Robotic Manipulation with Vision-Language and Generative Models."*   👉 **Check the recording here:** [![Watch on Bilibili](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+Bilibili&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=)](https://www.bilibili.com/video/BV1btfBYLEHS/?vd_source=e5e46a7b9d39094ea294e8beaca1d4ef) [![Watch on YouTube](https://img.shields.io/static/v1?style=flat-square&message=Watch+on+YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://youtu.be/cOL0cUpHdIY)
 
 - 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
-- 📝 **CoRL 2024 Papers Accepted**:
+- 📝 **2 Papers Accepted @ CoRL 2024**:
   - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
   - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
 
