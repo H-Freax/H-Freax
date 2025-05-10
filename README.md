@@ -67,6 +67,7 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 - ⚡ **Fun fact:** Passionate about **robotics**, **AI**, and everything **tech**.  
 
 ## 💼 Professional Experience
+- 🎓 Graduate Teaching Assistant at Northeastern University MGEN 
 - 💻 Machine Learning Engineer Co-op at Lendbuzz
 - 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
 
