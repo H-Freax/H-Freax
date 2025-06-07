@@ -11,8 +11,20 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
 - 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 - 🌐 [**PathOnAI.org**](https://www.pathonai.org/), contributing to **LLM-based web agents** for interactive reasoning and tool use. 
-- 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/)
+- 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
 ## 🚨 News  
+
+
+-  📝 **1 Paper Out Now (First & Corresponding Author)**: **["WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue"](https://arxiv.org/abs/2506.01881)**
+   
+   * 🌐 **[Project Page](https://nanostorm.netlify.app/)** Released!
+   
+   * 💻 **[Code Repository](https://github.com/H-Freax/Storm)**
+   
+   * 📊 **[Dataset on Hugging Face](https://huggingface.co/datasets/FreaxRuby/storm)**
+   
+   * 📈 **[Dialogue Analysis Dashboard](https://v0-dialogue-analysis-dashboard.vercel.app/)**
+
 
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
