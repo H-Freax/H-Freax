@@ -28,7 +28,8 @@ I’m currently immersed in exciting **robotics and AI research** at:
 
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
-- 🌐 **[VisualTreeSearch](https://www.pathonai.org/projects/visualtreesearch)** **Released!**
+- 🌐 **1 Papers Accepted @ ECML-PKDD 2025 Demo Track**  **[VisualTreeSearch: Understanding Web Agent Test-time Scaling](https://www.researchgate.net/publication/391739859_VisualTreeSearch_Understanding_Web_Agent_Test-time_Scaling)**
+   - **[VisualTreeSearch](https://www.pathonai.org/projects/visualtreesearch)** **Released!**
    🔗 [Demo](https://visual-tree-search.pathonai.org/) ｜ 💻 [Code](https://github.com/PathOnAI/VisualTreeSearch-Demo) 
 
 ### Events
