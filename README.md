@@ -101,7 +101,10 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 - AAAI 2025 Workshop WMAC  
 - ICLR 2025  
 - CoRL 2024 Workshop Assembly  
-- CoRL 2024 Workshop LEAP  
+- CoRL 2024 Workshop LEAP
+- COLM 2025 Workshop AIA
+- COLM 2025 Workshop Social Sim
+- RSS 2025 Workshop GenAI-HRI
 
 ## 🚀 Open Source Projects
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
