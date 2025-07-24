@@ -15,7 +15,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
 ## 🚨 News  
 
 
--  📝 **1 Paper Out Now (First & Corresponding Author)**: **["WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue"](https://arxiv.org/abs/2506.01881)**
+-  📝 **1 Paper Accepted @  Social Sim'25 COLM 2025 Workshop (First & Corresponding Author)**: **["WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue"](https://arxiv.org/abs/2506.01881)**
    
    * 🌐 **[Project Page](https://nanostorm.netlify.app/)** Released!
    
@@ -24,6 +24,8 @@ I’m currently immersed in exciting **robotics and AI research** at:
    * 📊 **[Dataset on Hugging Face](https://huggingface.co/datasets/FreaxRuby/storm)**
    
    * 📈 **[Dialogue Analysis Dashboard](https://v0-dialogue-analysis-dashboard.vercel.app/)**
+ 
+   * 
 
 
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
