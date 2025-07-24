@@ -24,8 +24,6 @@ I’m currently immersed in exciting **robotics and AI research** at:
    * 📊 **[Dataset on Hugging Face](https://huggingface.co/datasets/FreaxRuby/storm)**
    
    * 📈 **[Dialogue Analysis Dashboard](https://v0-dialogue-analysis-dashboard.vercel.app/)**
- 
-   * 
 
 
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
