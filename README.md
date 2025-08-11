@@ -87,7 +87,7 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
   
 ## 🔬 Academic Experience
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/)
-- 🎓 **Researcher (non-profit)** at **[PathOnAI.org](PathOnAI.org)**
+- 🎓 **Researcher (non-profit)** at **[PathOnAI.org](https://www.pathonai.org/)**
 - 🤖 **Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)**
 - 🤖 **Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)**
 - 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/group.html)(Conversation, Human-AI Technology, Security)
