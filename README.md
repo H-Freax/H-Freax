@@ -14,7 +14,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
 ## 🚨 News  
 
-
+-  📝 **1 Paper Accepted @  EMNLP Main Conference**: **The Ranking Blind Spot: Decision Hijacking in LLM-based Text Ranking [Coming soon]**
 -  📝 **1 Paper Accepted @  Social Sim'25 COLM 2025 Workshop (First & Corresponding Author)**: **["WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue"](https://arxiv.org/abs/2506.01881)**
    
    * 🌐 **[Project Page](https://nanostorm.netlify.app/)** Released!
