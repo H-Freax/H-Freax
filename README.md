@@ -42,7 +42,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
 - 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
 - 📝 **2 Papers Accepted @ CoRL 2024**:
   - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
-  - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
+  - **[Imagination Policy](https://haojhuang.github.io/imagine_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
 
 <div align="center">
 
