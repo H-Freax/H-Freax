@@ -9,7 +9,6 @@ As I gear up for my second year at **Northeastern University**, I reflect on my 
 
 I’m currently immersed in exciting **robotics and AI research** at:  
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
-- 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 - 🌐 [**PathOnAI.org**](https://www.pathonai.org/), contributing to **LLM-based web agents** for interactive reasoning and tool use. 
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
 ## 🚨 News  
@@ -88,8 +87,8 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 ## 🔬 Academic Experience
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/)
 - 🎓 **Researcher (non-profit)** at **[PathOnAI.org](https://www.pathonai.org/)**
-- 🤖 **Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)**
 - 🤖 **Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)**
+- 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/group.html)(Conversation, Human-AI Technology, Security)
 - 📊 Research Assistant at Wenzhou University of Technology
 - 📈 Research Assistant at Institute of Modeling and Data Mining, Wenzhou University
