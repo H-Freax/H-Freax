@@ -8,8 +8,8 @@
 As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 
 
 I’m currently immersed in exciting **robotics and AI research** at:  
-- 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.   
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
+- 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
 ## 🚨 News  
 -  📝 **1 Paper Accepted @  Multi-Turn Interactions in LLMs (MTI-LLM)'25 NeurIPS 2025 Workshop (First & Corresponding Author)**: **[WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://webgrapheval-webpage.vercel.app/)**
 -  📝 **1 Paper Accepted @  EMNLP Main Conference**: **[The Ranking Blind Spot: Decision Hijacking in LLM-based Text Ranking](https://rankingblindspot.netlify.app/)**
@@ -81,8 +81,9 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
   
 ## 🔬 Academic Experience
+- 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/)
-- 🤖 **Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)**
+- 🤖 Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)
 - 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/group.html)(Conversation, Human-AI Technology, Security)
 - 📊 Research Assistant at Wenzhou University of Technology
