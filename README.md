@@ -5,8 +5,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 </div>
 
-As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 
-
 I’m currently immersed in exciting **robotics and AI research** at:  
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
 - 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
@@ -93,6 +91,8 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
 
 ## 🔍  Reviewing Experience
+- AAMAS 2026
+- HRI 2026 Late-Breaking Reports
 - AAAI 2025 Workshop WMAC  
 - ICLR 2025  
 - CoRL 2024 Workshop Assembly  
