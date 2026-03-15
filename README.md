@@ -3,11 +3,28 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
+
 </div>
 
-I’m currently immersed in exciting **robotics and AI research** at:  
+<!-- TermHub — compact promo -->
+<div align="center">
+<a href="https://github.com/H-Freax/TermHub"><img src="https://raw.githubusercontent.com/H-Freax/TermHub/main/public/logo.svg" alt="TermHub" width="360" /></a>
+<br/>
+<strong>Your Resume In. Portfolio Out.</strong> · <img src="https://img.shields.io/badge/CV-d08770?style=flat-square" height="14" /> → <img src="https://img.shields.io/badge/AI-88c0d0?style=flat-square" height="14" /> → <img src="https://img.shields.io/badge/Markdown-a3be8c?style=flat-square" height="14" /> → <img src="https://img.shields.io/badge/Homepage-b48ead?style=flat-square" height="14" />
+<br/>
+<a href="https://github.com/H-Freax/TermHub"><img src="https://img.shields.io/github/stars/H-Freax/TermHub?style=social" /></a>&nbsp;
+<a href="https://github.com/H-Freax/TermHub"><img src="https://img.shields.io/badge/NEW-Supports_MCP-bf616a?style=flat-square" /></a>&nbsp;
+<a href="https://term-hub.vercel.app/"><img src="https://img.shields.io/badge/Demo-a3be8c?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://termhubai.com"><img src="https://img.shields.io/badge/termhubai.com-5e81ac?style=flat-square&logo=firefox&logoColor=white" /></a>&nbsp;
+<a href="https://discord.gg/QV2kyXzaTa"><img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
+</div>
+
+<br/>
+
+I'm currently immersed in exciting **robotics and AI research** at:  
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
 - 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
+
 ## 🚨 News  
 -  📝 **1 Paper Accepted @  Multi-Turn Interactions in LLMs (MTI-LLM)'25 NeurIPS 2025 Workshop (First & Corresponding Author)**: **[WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://webgrapheval-webpage.vercel.app/)**
 -  📝 **1 Paper Accepted @  EMNLP Main Conference**: **[The Ranking Blind Spot: Decision Hijacking in LLM-based Text Ranking](https://rankingblindspot.netlify.app/)**
@@ -21,9 +38,7 @@ I’m currently immersed in exciting **robotics and AI research** at:
    
    * 📈 **[Dialogue Analysis Dashboard](https://v0-dialogue-analysis-dashboard.vercel.app/)**
 
-
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
-
 
 ### Events
 
