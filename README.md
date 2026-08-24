@@ -23,11 +23,41 @@
 
 I'm currently immersed in exciting **robotics and AI research** at:  
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/) with **Kyrie Zhixuan Zhou**
-- 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
+
 
 ## 🚨 News  
+-  🚀 **1 Paper Accepted @  EMNLP 2026 Findings**: **[DeployBench: Benchmarking LLM Agents for Research Artifact Deployment](https://arxiv.org/abs/2606.05238)**
+
+   * 🌐 **[Project Website](https://deploybench-vis.vercel.app/)**
+
+-  🎓 **1 Poster Accepted @  ASIS&T 2026**: **"Inside the Agentic Classroom: Simulating Instructional Dynamics with AI Student Agents (EdAgents)"**
+
+-  🧩 **New Preprint**: **[SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670)**
+
+   * 🌐 **[Project Website](https://www.skillsbench.ai/)**
+
+   * 📊 **[Dataset on Hugging Face](https://huggingface.co/datasets/benchflow/skillsbench)**
+
+-  🎬 **1 Paper Accepted @  ICML 2026**: **[A Very Big Video Reasoning Suite (VBVR)](https://arxiv.org/abs/2602.20159)**
+
+   * 🌐 **[Project Page](http://video-reason.com)**
+
+   * 📊 **[Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)** · 📈 **[Leaderboard](https://huggingface.co/spaces/Video-Reason/VBVR-Bench-Leaderboard)** · 💻 **[EvalKit](https://github.com/Video-Reason/VBVR-EvalKit)** · 🤖 **[Model](https://huggingface.co/Video-Reason/VBVR-Wan2.2)**
+
+-  📝 **1 Paper Accepted @  ASIS&T 2026**: **["Everyone Else Does It": The Rise of Preprinting Culture in Computing Disciplines](https://arxiv.org/abs/2511.04081)**
+
+   * 🌐 **[Project Website](https://everyone-else-does-it.vercel.app/)**
+
+-  🌀 **New Preprint**: **[Clebsch-Gordan Transformer: Fast and Global Equivariant Attention](https://arxiv.org/abs/2509.24093)**
+
 -  📝 **1 Paper Accepted @  Multi-Turn Interactions in LLMs (MTI-LLM)'25 NeurIPS 2025 Workshop (First & Corresponding Author)**: **[WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://webgrapheval-webpage.vercel.app/)**
+
+   * 💻 **[Live Demo](https://web-graph-eval.vercel.app/)**
+
 -  📝 **1 Paper Accepted @  EMNLP Main Conference**: **[The Ranking Blind Spot: Decision Hijacking in LLM-based Text Ranking](https://rankingblindspot.netlify.app/)**
+
+   * 💻 **[Code Repository](https://github.com/blindspotorg/RankingBlindSpot)**
+
 -  📝 **1 Paper Accepted @  Social Sim'25 COLM 2025 Workshop (First & Corresponding Author)**: **["WHEN TO ACT, WHEN TO WAIT: Modeling Structural Trajectories for Intent Triggerability in Task-Oriented Dialogue"](https://arxiv.org/abs/2506.01881)**
    
    * 🌐 **[Project Page](https://nanostorm.netlify.app/)** Released!
@@ -37,6 +67,8 @@ I'm currently immersed in exciting **robotics and AI research** at:
    * 📊 **[Dataset on Hugging Face](https://huggingface.co/datasets/FreaxRuby/storm)**
    
    * 📈 **[Dialogue Analysis Dashboard](https://v0-dialogue-analysis-dashboard.vercel.app/)**
+
+-  🖥️ **1 Demo Accepted @  ECML-PKDD 2025**: **[VisualTreeSearch: Understanding Web Agent Test-time Scaling](https://www.researchgate.net/publication/391739859_VisualTreeSearch_Understanding_Web_Agent_Test-time_Scaling)**
 
 - 📝 **1 Papers Accepted @ ICML 2025**: **[Hierarchical Equivariant Policy via Frame Transfer](https://arxiv.org/abs/2502.05728)**
 
@@ -61,7 +93,7 @@ I'm currently immersed in exciting **robotics and AI research** at:
 
  _Feel free to reach out!_
 
-_✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡_
+_✨ Whether for collaboration, brainstorming, or just exchanging ideas, I'd love to connect and explore new possibilities together. 💡_
 
 </div>
 
@@ -88,14 +120,14 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 - ⚡ **Fun fact:** Passionate about **robotics**, **AI**, and everything **tech**.  
 
 ## 💼 Professional Experience
-- 🎓 Graduate Teaching Assistant at Northeastern University MGEN 
-- 💻 Machine Learning Engineer Co-op at Lendbuzz
-- 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co
+- 🎓 Graduate Teaching Assistant at Northeastern University MGEN (Jan 2025 – Apr 2025)
+- 💻 Machine Learning Engineer Co-op at Lendbuzz (2023)
+- 🏥 Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co (2022)
 
   
 ## 🔬 Academic Experience
-- 🧒 [**Growing AI Like A Child**](https://growing-ai-like-a-child.github.io/) 
 - 💡 [**information Technology Ethics and Accessibility (iTEA) Lab**](https://kyriezz.com/lab/)
+- 🧒 [Growing AI Like A Child](https://growing-ai-like-a-child.github.io/) 
 - 🤖 Research Assistant at [The Helping Hands Lab, Northeastern University](https://www2.ccs.neu.edu/research/helpinghands/)
 - 🤖 Research Assistant at [the Information Experience and Accessibility Lab, UIUC](https://infoaccesslab.web.illinois.edu/)
 - 🤖 Research Assistant at [CHATS Lab](https://wyshi.github.io/group.html)(Conversation, Human-AI Technology, Security)
@@ -106,6 +138,9 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 
 
 ## 🔍  Reviewing Experience
+- HICSS 2026
+- CIKM 2026 Workshop LASS
+- COLM 2026 Workshop WAB
 - AAMAS 2026
 - HRI 2026 Late-Breaking Reports
 - AAAI 2025 Workshop WMAC  
@@ -117,6 +152,10 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d l
 - RSS 2025 Workshop GenAI-HRI
 
 ## 🚀 Open Source Projects
+- 🖥️ [TermHub](https://github.com/H-Freax/TermHub) - Terminal-style academic homepage template for the AI era. CV → AI → Markdown → Homepage, with MCP support.
+- 🦾 [ThinkGrasp](https://github.com/H-Freax/ThinkGrasp) - A vision-language system for strategic part grasping in clutter (CoRL 2024).
+- 💬 [Storm](https://github.com/H-Freax/Storm) - Modeling structural trajectories for intent triggerability in task-oriented dialogue.
+- 📚 [Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers) - Curated reading list on video models for robotics.
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
 - 💻 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
@@ -167,4 +206,3 @@ In the early phase of my graduate studies, I joined the **CHATS Lab** at Northea
 <div align="center">
   <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-
