@@ -139,7 +139,6 @@ _✨ Whether for collaboration, brainstorming, or just exchanging ideas, I'd lov
 
 ## 🔍  Reviewing Experience
 - HICSS 2026
-- CIKM 2026 Workshop LASS
 - COLM 2026 Workshop WAB
 - AAMAS 2026
 - HRI 2026 Late-Breaking Reports
